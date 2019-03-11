@@ -1,0 +1,83 @@
+1  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/hello.py'  && echo Exit status: $? && exit 1
+    2  cd '/Users/nicolasclaveria/Documents/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Documents/hello.py'  && echo Exit status: $? && exit 1
+    3  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/hello.py'  && echo Exit status: $? && exit 1
+    4  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/hello.py'  && echo Exit status: $? && exit 1
+    5  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/hello.py'  && echo Exit status: $? && exit 1
+    6  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/hello.py'  && echo Exit status: $? && exit 1
+    7  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/marcador.py'  && echo Exit status: $? && exit 1
+    8  cd '/Users/nicolasclaveria/Desktop/' && '/usr/bin/pythonw'  '/Users/nicolasclaveria/Desktop/marcador.py'  && echo Exit status: $? && exit 1
+    9  cd Downloads/
+   10  ls
+   11  python3 chess.py
+   12  cd Desktop
+   13  chess
+   14  cd Desktop/
+   15  chess
+   16  cd Desktop
+   17  cd chess/
+   18  ls
+   19  python3 chess.py
+   20  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   21  brew install biogeme
+   22  /Users/nicolasclaveria/Downloads/mac/winbiogeme ; exit;
+   23  /Users/nicolasclaveria/Downloads/mac\ 2/biogeme ; exit;
+   24  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   25  gurobi_cl
+   26  Desktop/1aii.py
+   27  claveria
+   28  Escritorio/1aii
+   29  Escritorio/1aii.py
+   30  Desktop/1aii.py
+   31  password:claveria
+   32  gurobi_cl
+   33  python3
+   34  gurobi_cl
+   35  cd Desktop/python
+   36  python3 1aii.py
+   37  gurobi_cl
+   38  cd Desktop/python
+   39  python3 problema_1b.py
+   40  gurobi_cl
+   41  cd Desktop/python
+   42  gurobi.sh 1aii.py
+   43  gurobi_cl
+   44  cd Desktop/python
+   45  gurobi.sh 1aii.py
+   46  gurobi_cl
+   47  cd Desktop/python
+   48  gurobi.sh 1aii.py
+   49  .
+   50  gurobi_cl
+   51  cd Desktop/python
+   52  gurobi.sh 1e.py
+   53  gurobi.sh 1e.py
+   54  }}}
+   55  gurobi.sh 1f.py
+   56  gurobi.sh 1f.py
+   57  gurobi.sh 1f.py
+   58  gurobi.sh Problema_1d.py
+   59  gurobi.sh 1e.py
+   60  gurobi_cl
+   61  cd Desktop/python
+   62  gurobi.sh 1aii.py
+   63  gurobi.sh 1aii.py
+   64  1aii
+   65  gurobi.sh 1aii.py
+   66  gurobi.sh 1aii.py
+   67  gurobi.sh 1e.py
+   68  gurobi.sh 1e.py
+   69  gurobi.sh 1e.py
+   70  gurobi.sh problema_1d.py
+   71  gurobi.sh 1f.py
+   72  gurobi.sh 1f.py
+   73  gurobi.sh 1f.py
+   74  gurobi.sh Problema_1e.py
+   75  git GUI
+   76  cd Desktop/
+   77  git clone https://github.com/IIC2115/Syllabus
+   78  cd Syllabus/
+   79  ls
+   80  git add *
+   81  git commit -m "se sube el lab0"
+   82  git push
+   83  history
